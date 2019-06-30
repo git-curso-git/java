@@ -14,6 +14,11 @@ ECLIPSE STS
 	https://spring.io/tools
 
 	
+JAVA W3SCHOOLS
+--------------
+
+	https://www.w3schools.com/java/
+
 
 PRACTICAL GUIDE TO BUILDING AN API BACKEND WITH SPRING BOOT
 -----------------------------------------------------------
