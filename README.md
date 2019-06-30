@@ -1,4 +1,4 @@
-# java
+
 
 JAVA 8
 ------
@@ -11,29 +11,29 @@ JAVA 8
 ECLIPSE STS
 -----------
 
-		https://spring.io/tools
+	https://spring.io/tools
 
 	
 
 PRACTICAL GUIDE TO BUILDING AN API BACKEND WITH SPRING BOOT
 -----------------------------------------------------------
 
-		https://www.infoq.com/minibooks/spring-boot-building-api-backend/
+	https://www.infoq.com/minibooks/spring-boot-building-api-backend/
 
 
-		https://github.com/wimdeblauwe/spring-boot-building-api-backend
+	https://github.com/wimdeblauwe/spring-boot-building-api-backend
 
 
 
 JAVA HELLO WORLD
 ----------------
 
-		HelloWorld/Hello.java
+	HelloWorld/Hello.java
 
 
 
 JAVA HELLO WORLD SPRING BOOT
 ----------------------------
 
-		HelloWorldSpring/Application.java
-		HelloWorldSpring/GreetingController.java
+	HelloWorldSpring/Application.java
+	HelloWorldSpring/GreetingController.java
