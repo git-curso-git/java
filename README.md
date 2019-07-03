@@ -42,3 +42,16 @@ JAVA HELLO WORLD SPRING BOOT
 
 	HelloWorldSpring/Application.java
 	HelloWorldSpring/GreetingController.java
+
+JAVA DOC
+--------
+
+	https://docs.oracle.com/javase/tutorial/index.html
+	
+	https://www.google.com/search?client=ubuntu&channel=fs&q=java+sql&ie=utf-8&oe=utf-8
+	
+	https://www.geeksforgeeks.org/stream-in-java/
+	
+	https://www.geeksforgeeks.org/10-ways-to-create-a-stream-in-java/
+	
+	
