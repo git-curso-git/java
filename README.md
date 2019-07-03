@@ -54,4 +54,4 @@ JAVA DOC
 	
 	https://www.geeksforgeeks.org/10-ways-to-create-a-stream-in-java/
 	
-	
+	https://www.ntu.edu.sg/home/ehchua/programming/java/JDBC_Basic.html
