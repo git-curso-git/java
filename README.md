@@ -33,7 +33,9 @@ PRACTICAL GUIDE TO BUILDING AN API BACKEND WITH SPRING BOOT
 JAVA HELLO WORLD
 ----------------
 
-	HelloWorld/Hello.java
+	https://github.com/spring-guides/gs-rest-service
+	
+		HelloWorld/Hello.java
 
 
 
@@ -42,6 +44,16 @@ JAVA HELLO WORLD SPRING BOOT
 
 	HelloWorldSpring/Application.java
 	HelloWorldSpring/GreetingController.java
+
+RESTful API Example with Spring Data REST
+-----------------------------------------
+
+	https://hellokoding.com/restful-api-example-with-spring-boot-spring-data-rest-and-mysql/
+
+SPRING GUIDES
+-------------
+
+	https://github.com/spring-guides
 
 JAVA DOC
 --------
